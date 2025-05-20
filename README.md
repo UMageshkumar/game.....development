@@ -1,5 +1,6 @@
 # EX 10 : ANIMATION USING FLASH
-
+## NAME:MAGESHKUMAR U
+## REGNO:212224240085
 
 ## AIM
   
@@ -65,3 +66,4 @@ Step 5: Play the picture.
 
 
 ## OUTPUT:
+![Screenshot (60)](https://github.com/user-attachments/assets/2a9876ae-2fd0-42b4-98fe-c87987b7ef0f)
